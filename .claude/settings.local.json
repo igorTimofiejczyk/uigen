@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run:*)",
+      "Bash(git -C /Users/ihartsimafeichyk/Desktop/AnthropicCertificatio/Claude_Code_in_Action/uigen status)",
+      "Bash(git -C /Users/ihartsimafeichyk/Desktop/AnthropicCertificatio/Claude_Code_in_Action/uigen diff)",
+      "Bash(git:*)"
+    ]
+  }
+}
